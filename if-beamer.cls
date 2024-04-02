@@ -11,7 +11,7 @@
 % Author: Humberto da Silva Neto                                                  %
 % Edited: Haron Calegari Fanticelli                                               %
 % Git Repo: https://github.com/hsneto/if-beamer/ (original)                       %
-% Git Repo: XXXXXXX                              (edição)                         %
+% Git Repo: https://github.com/Haroncf/cefet_aulas_latex (edição)                 %
 %                                                                                 %
 % ------------------------------------------------------------------------------- %
 
