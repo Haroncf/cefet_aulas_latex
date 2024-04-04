@@ -9,6 +9,7 @@ Template Editado/Adaptado do Modelo de Apresentação Ifes - v1.0.1
 ### Overleaf Gallery:
 
 [Overleaf (ifes-beamer - v1.0.0)](https://www.overleaf.com/latex/templates/presentation-template/fzswgwtncpcg)
+[Overleaf (Apresentaçãao CEFET-RJ - v1.0.0)](https://www.overleaf.com/latex/templates/apresentacao-aula-cefet-rj/zgrffmrswtdy)
 
 ### Github Repository:
 
